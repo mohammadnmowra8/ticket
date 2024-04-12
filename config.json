@@ -1,0 +1,13 @@
+{
+  "TOKEN": "Token_bot",
+  "ticketCategoryID": "Category_ID",
+  "ticketNumber": 2,
+  "BACKGROUND": "Background_image",
+  "SECTIONS": [
+    {
+      "name": "name_ticket",
+      "roleID": "id_role",
+      "image": "image_"
+    }
+  ]
+}
